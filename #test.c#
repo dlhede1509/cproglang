@@ -3,6 +3,6 @@
 
   int main (void)
   {
-    printf("Hi, My Name is Clit Commander");
+    printf("Hi, My Name is Dennis Ritchie and welcome to C!");
     return EXIT_SUCCESS;
   }
